@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 Linux enthusiast | Open source developer<br><br>Sway · Arch Linux · customization
 
 
-## 🌐 Socials:
+## Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@deploydy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kael_develop@proton.me) 
 
 # 💻 Tech Stack:
