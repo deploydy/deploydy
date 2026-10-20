@@ -1,7 +1,7 @@
 {
- "key": "ec8714ca",
+ "key": "cf60d96f",
  "stars": 50,
- "contributions": 334,
+ "contributions": 336,
  "repos": 13,
  "followers": 0,
  "languages": [
@@ -101,7 +101,7 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 6,
     "day": 20,
     "today": true
    },
@@ -115,26 +115,7 @@
   "current": 3,
   "longest": 3
  },
- "pins": [
-  {
-   "name": "lshell",
-   "url": "https://github.com/deploydy/lshell",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "lshell-lite",
-   "url": "https://github.com/deploydy/lshell-lite",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  }
- ],
+ "pins": [],
  "all": [
   {
    "name": "Gnomintosh-Tahoe",
