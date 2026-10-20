@@ -102,12 +102,24 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "Gnomintosh-Tahoe",
-      "Gnomintosh",
       "lshell",
-      "lshell-lite"
+      "lshell-lite",
+      "Gnomintosh"
     ],
-    "overrides": {},
+    "overrides": {
+      "Gnomintosh-Tahoe": {
+        "text": "Gnomintosh (a portmanteau of GNOME and Macintosh) is an open-source customization project for Linux"
+      },
+      "Gnomintosh": {
+        "text": "Gnomintosh (a portmanteau of GNOME and Macintosh) is an open-source customization project for Linux"
+      },
+      "lshell": {
+        "text": "deploydy/lshell is a minimalist SwayFX (Wayland) configuration for Arch Linux."
+      },
+      "lshell-lite": {
+        "text": "lshell-lite is a stripped-down, simple configuration for the SwayFX window manager."
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
