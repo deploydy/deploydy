@@ -27,11 +27,11 @@
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Kharkov"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "JavaScript · Python"
       }
     ]
   },
@@ -145,12 +145,6 @@
   },
   "buttons": {
     "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
       {
         "icon": "book_2",
         "label": "All repositories",
