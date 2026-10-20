@@ -1,0 +1,257 @@
+{
+ "key": "d57c980b",
+ "stars": 50,
+ "contributions": 334,
+ "repos": 13,
+ "followers": 0,
+ "languages": [
+  [
+   "Python",
+   117821
+  ],
+  [
+   "CSS",
+   8314
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 16,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "lshell",
+   "url": "https://github.com/deploydy/lshell",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "lshell-lite",
+   "url": "https://github.com/deploydy/lshell-lite",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Gnomintosh-Tahoe",
+   "url": "https://github.com/deploydy/Gnomintosh-Tahoe",
+   "text": "",
+   "fork": false,
+   "stars": 49,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "lshell",
+   "url": "https://github.com/deploydy/lshell",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "deploydy",
+   "url": "https://github.com/deploydy/deploydy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "lshell-lite",
+   "url": "https://github.com/deploydy/lshell-lite",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "macOS-Icons",
+   "url": "https://github.com/deploydy/macOS-Icons",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Gnomintosh",
+   "url": "https://github.com/deploydy/Gnomintosh",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Gnomintosh-GoldenGate",
+   "url": "https://github.com/deploydy/Gnomintosh-GoldenGate",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Dzhenya-Assistant",
+   "url": "https://github.com/deploydy/Dzhenya-Assistant",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Gnomintosh-Sonoma",
+   "url": "https://github.com/deploydy/Gnomintosh-Sonoma",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Gnomintosh-Ventura",
+   "url": "https://github.com/deploydy/Gnomintosh-Ventura",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Gnomintosh-Monterey",
+   "url": "https://github.com/deploydy/Gnomintosh-Monterey",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Gnomintosh-BigSur",
+   "url": "https://github.com/deploydy/Gnomintosh-BigSur",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Gnomintosh-Sequoia",
+   "url": "https://github.com/deploydy/Gnomintosh-Sequoia",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
