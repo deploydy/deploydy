@@ -1,18 +1,25 @@
-# About Me:
-Linux enthusiast | Open source developer<br><br>Sway · Arch Linux · customization
+<div align="center">
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m deploydy"></picture>
 
-## Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@deploydy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kael_develop@proton.me) 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="33.194%" alt=""></picture><a href="https://t.me/deploydy_eng"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://www.tiktok.com/@deploydy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="15.488%" alt="tiktok"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="33.194%" alt=""></picture>
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=deploydy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=deploydy&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deploydy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
----
-[![](https://komarev.com/ghpvc/?username=deploydy&icon=0&color=0)](https://visitcount.itsvg.in)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/deploydy/Gnomintosh-Tahoe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gnomintosh-tahoe-dark.svg"><img src="assets/project-gnomintosh-tahoe-light.svg" width="49%" alt="Gnomintosh-Tahoe"></picture></a>&nbsp;<a href="https://github.com/deploydy/Gnomintosh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gnomintosh-dark.svg"><img src="assets/project-gnomintosh-light.svg" width="49%" alt="Gnomintosh"></picture></a>
+
+<a href="https://github.com/deploydy/lshell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lshell-dark.svg"><img src="assets/project-lshell-light.svg" width="49%" alt="lshell"></picture></a>&nbsp;<a href="https://github.com/deploydy/lshell-lite"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lshell-lite-dark.svg"><img src="assets/project-lshell-lite-light.svg" width="49%" alt="lshell-lite"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/deploydy?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=deploydy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
