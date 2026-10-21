@@ -1,5 +1,5 @@
 {
- "key": "cf60d96f",
+ "key": "ea175370",
  "stars": 50,
  "contributions": 336,
  "repos": 13,
@@ -103,9 +103,13 @@
    {
     "c": 6,
     "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
     "today": true
    },
-   null,
    null,
    null,
    null
