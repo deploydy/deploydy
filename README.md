@@ -10,8 +10,6 @@
 
 <a href="https://github.com/deploydy/lshell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lshell-dark.svg"><img src="assets/project-lshell-light.svg" width="49%" alt="lshell"></picture></a>&nbsp;<a href="https://github.com/deploydy/lshell-lite"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lshell-lite-dark.svg"><img src="assets/project-lshell-lite-light.svg" width="49%" alt="lshell-lite"></picture></a>
 
-<a href="https://github.com/deploydy/Gnomintosh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gnomintosh-dark.svg"><img src="assets/project-gnomintosh-light.svg" width="49%" alt="Gnomintosh"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
