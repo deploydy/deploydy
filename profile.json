@@ -168,6 +168,12 @@
         "label": "WebSite",
         "url": "https://deploydy.github.io/r36s-wiki/",
         "style": "tonal"
+      },
+      {
+        "icon": "language",
+        "label": "Portfolio",
+        "url": "https://deploydy.github.io/deploydy/",
+        "style": "tonal"
       }
     ],
     "card": true
