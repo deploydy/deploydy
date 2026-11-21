@@ -1,5 +1,5 @@
 {
- "key": "826a2010",
+ "key": "dfec38af",
  "stars": 1,
  "contributions": 233,
  "repos": 4,
@@ -122,9 +122,13 @@
    {
     "c": 0,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
